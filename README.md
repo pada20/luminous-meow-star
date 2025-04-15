@@ -1,11 +1,5 @@
 # luminous-meow-star
 My personal MeowMeow web
-git init
-git branch -M main
-git remote add origin https://github.com/pada20/luminous-meow-star.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
 建立一個 index.html 文件：
 <!DOCTYPE html>
 <html lang="zh-Hant">
@@ -30,3 +24,11 @@ git push -u origin main
     <p>這是一個簡單的示範網站。</p>
 </body>
 </html>
+git branch -M main
+git init
+git branch -M main
+git remote add origin https://github.com/pada20/luminous-meow-star.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
