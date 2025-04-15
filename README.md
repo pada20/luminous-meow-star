@@ -1,3 +1,7 @@
+luminous-meow-star/
+├── index.html
+├── README.md
+└── CNAME (可選，用於自訂網域)
 # 🌟 Luminous Meow Star
 
 歡迎來到 **Luminous Meow Star**！這是喵喵的個人網站，致力於語言學習、故事創作與角色扮演的全方位平台。
