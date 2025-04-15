@@ -34,9 +34,3 @@ cd luminous-meow-star
 本專案採用 MIT License 授權。
 ✨ 感謝你的參與與支持！讓我們一起打造屬於喵喵的星球吧！✨
 git branch -M main
-git init
-git branch -M main
-git remote add origin https://github.com/pada20/luminous-meow-star.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
