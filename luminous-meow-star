@@ -1,0 +1,14 @@
+新增網站檔案：
+將您的網站檔案（如 index.html、圖片等）放入這個資料夾中。
+初始化 Git 倉庫：
+打開終端機（Terminal）或命令提示字元（Command Prompt），切換到您的專案資料夾：
+cd 路徑/到/您的/luminous-meow-star
+初始化 Git 倉庫：
+git init
+新增所有檔案並提交：
+git add .
+git commit -m "Initial commit"
+將遠端 repository 設定為 origin：￼
+git remote add origin https://github.com/pada20/luminous-meow-star.git
+推送到 GitHub：
+git push -u origin main
