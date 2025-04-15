@@ -28,7 +28,7 @@ luminous-meow-star/
 1. **克隆此倉庫：**
 
    ```bash
-   git clone https://github.com/pada20/luminous-meow-star.git
+git init clone https://github.com/pada20/luminous-meow-star.git
 進入專案目錄：
 cd luminous-meow-star
 開啟 index.html：
