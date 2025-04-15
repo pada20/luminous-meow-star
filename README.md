@@ -8,8 +8,7 @@ git remote add origin https://github.com/pada20/luminous-meow-star.git
 新增所有檔案並提交：
 git add .
 git commit -m "Initial commit"
-推送到 GitHub:
-git push -u origin main
+推送到 GitHub:git push -u origin main
 建立一個 index.html 文件：
 <!DOCTYPE html>
 <html lang="zh-Hant">
